@@ -1,0 +1,7 @@
+while (alive != false)
+	sleep();
+	wakeup();
+	cleanup();
+	drink(coffee);
+	eat(breakfast);
+	say("Hi, Mom!);
